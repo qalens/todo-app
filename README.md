@@ -1,4 +1,4 @@
-# Todo App with nextjs
+# Todo App with nextjs and prisma
 ## Steps to run locally
 1. Install Node
 2. Install yarn
